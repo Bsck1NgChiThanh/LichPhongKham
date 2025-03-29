@@ -1,6 +1,6 @@
 # LỊCH PHÒNG KHÁM TƯ NHÂN BS NGUYỄN CHÍ THÀNH
 
-## LỊCH TỪ 29/3/2025 ĐẾN 30/4/2025
+## LỊCH TỪ 29/3/2025 ĐẾN 06/4/2025
 
 |**Thứ** |**Ngày**|**Sáng** |**Trưa**   |**Chiều**|
 |--      |--      |--       |--         |--       |
