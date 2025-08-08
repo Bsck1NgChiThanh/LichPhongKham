@@ -1,6 +1,6 @@
 # LỊCH PHÒNG KHÁM TƯ NHÂN BS NGUYỄN CHÍ THÀNH
 
-## LỊCH TỪ 04/8 ĐẾN 10/8/2025
+## LỊCH TỪ 08/8 ĐẾN 17/8/2025
 
 |**Thứ** |**Ngày**|**Sáng** |**Trưa**   |**Chiều**|
 |--      |--      |--       |--         |--       |    
