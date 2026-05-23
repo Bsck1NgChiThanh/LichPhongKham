@@ -1,7 +1,7 @@
 # LỊCH PHÒNG KHÁM TƯ NHÂN 
 ## BS NGUYỄN CHÍ THÀNH 
 
-#### LỊCH TỪ 18/05 ĐẾN 24/05/2026  
+#### LỊCH TỪ 24/05 ĐẾN 31/05/2026  
 
 |**Thứ** |**Ngày**|**Sáng** |**Trưa**   |**Chiều**|
 |--      |--      |--       |--         |--       |     
