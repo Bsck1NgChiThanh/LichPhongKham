@@ -1,5 +1,5 @@
 # LỊCH PHÒNG KHÁM TƯ NHÂN 
-## BS NGUYỄN CHÍ THÀNH 
+## BS NGUYỄN CHÍ THÀNH. Phone: 0914.678.254
 
 #### LỊCH TỪ 07/08 ĐẾN 16/08/2026  
 
